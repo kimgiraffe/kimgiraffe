@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimgiraffe
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Data Structures, Assembly Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kimgiraffe@naver.com
 
