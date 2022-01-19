@@ -8,5 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://img.shields.io/badge/kimgiraffe-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgiraffe)]
-(https://solved.ac/kimgiraffe)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgiraffe)](https://solved.ac/kimgiraffe)
